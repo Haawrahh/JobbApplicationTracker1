@@ -24,6 +24,7 @@ namespace JobbApplicationTracker
         {
             return $"Company: {CompanyName}, Position: {Position}, Status: {ApplicationStatus}, Applied On: {ApplicationDate.ToShortDateString()}, Salary Expectation: {SalaryExpectation}"; //Returnerar en sträng med information om ansökan
         }
+        //testa commit, första ändringen 
     }
 
 }
