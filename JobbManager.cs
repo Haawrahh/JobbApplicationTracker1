@@ -163,7 +163,8 @@ namespace JobbApplicationTracker
             throw new NotImplementedException();
         }
     }
-   
+    //testa commit fårn feature/jobbmanager
+
 }
-    
+
 
