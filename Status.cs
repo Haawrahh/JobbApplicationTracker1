@@ -12,5 +12,5 @@ namespace JobbApplicationTracker
         Accepted = 4,           //Accepterad
         Rejected = 5            //Avslagen
     }
-
+    //Testa commit , för att se om allt fungerar som det ska
 }
